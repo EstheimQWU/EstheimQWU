@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EstheimQWU
-- 👀 I’m interested in telling storys and develop some apps.
+- 👀 I’m interested in telling storys and developing some apps.
 - 🌱 I’m currently learning how to be a SRE.
 - 📫 How to reach me ...
 
